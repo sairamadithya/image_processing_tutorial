@@ -1,0 +1,10 @@
+download any image from google or any source....
+click properties on the image and then copy the location
+paste that location in the specified place in the notebook
+the location will be till the source only; you have to write the name of the file and its type along with it.
+finally dont forget to add one more slash to each section in the location in order to avoid the unicodeescape error.
+
+
+2-C:\Users\sairam\Desktop
+4-C:\Users\sairam\Desktop\download.jpeg       where download is the filename and .jpeg is the extension file type
+5-C:\\Users\\sairam\\Desktop\\download.jpeg   this is the final address which is to be given in the notebook.
